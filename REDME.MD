@@ -1,10 +1,11 @@
-# Jenkins CI Pipeline
+# Assignment Final
 
-This project is connected to Jenkins using a Jenkinsfile.
+This project is a simple webhook-based application to test:
+
+GitHub → Jenkins → CI/CD Pipeline
 
 ## Pipeline Stages
 - Checkout
 - Build
 - Test
-
-Triggered automatically on Git push.
+- Deploy
